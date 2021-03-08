@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"tarea6daw.clases","l":"Circulo"},{"p":"tarea6daw.clases","l":"Figura"},{"p":"tarea6daw.clases","l":"Main"},{"p":"tarea6daw.clases","l":"Rectangulo"},{"p":"tarea6daw.clases","l":"Triangulo"}]
