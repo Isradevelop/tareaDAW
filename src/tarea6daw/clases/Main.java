@@ -52,6 +52,7 @@ public class Main {
      */
     public static double calcularArea(Figura f){ // Ejemplo de uso de polimorfismo
         
+        System.out.println("Area calculada");
         return f.CalcularArea();
     }
 }
